@@ -17,10 +17,10 @@ try:
   
 
     ts = TwitterSearch(
-        consumer_key = 'n437aK3zV2o2LmDejfVJOdOrU',
-        consumer_secret = '8mt2ysZeR2BuyDS8QE5CfcaD6Of4sdUxvSFKVpENcVtC68kzjk',
-        access_token = '1445658510-RGZHmLmtkH5BjIPeV6SqN3sDahzBfy3Oj1rNVL5',
-        access_token_secret = 'bQ9gaj39xgIdmkZ0AuKOGNZIRBnAtanAZftpo9ls2p21v'
+        consumer_key = 'key',
+        consumer_secret = 'secret',
+        access_token = 'token',
+        access_token_secret = 'tokensecret'
      )
      
     count = 0 
