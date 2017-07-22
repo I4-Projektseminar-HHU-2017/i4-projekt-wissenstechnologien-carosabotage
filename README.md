@@ -14,11 +14,13 @@ apicount.py - Twitter API
 
 Twitter API zum erhalten der Tweets 
 
+Der Grundcode stammt von folgender Seite: https://pypi.python.org/pypi/TwitterSearch/ 
+Und wurde für unsere Zwecke abgeändert. 
+
 Zur Nutzung werden eigene Access Tokens benötigt, eine Anleitung, wie man diese erhält findet sich hier:
 http://socialmedia-class.org/twittertutorial.html
 
-Der Grundcode stammt von folgender Seite: https://pypi.python.org/pypi/TwitterSearch/ 
-Und wurde für unsere Zwecke abgeändert. Zur Nutzung einfach  unter tso.set_keywords die gewünschten Suchparameter einfügen.
+Zur Nutzung einfach  unter tso.set_keywords die gewünschten Suchparameter einfügen.
 
 
 textmining.py - Programm zum Auswerten der Tweets
